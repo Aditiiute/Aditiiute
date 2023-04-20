@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditiiute
+- 👋 Hi, I’m @Aditi lute
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning java 
 - 📫 how can i built my programming skill
